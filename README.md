@@ -1,2 +1,1 @@
-# SlantTechs
-Site
+# SlantTech
